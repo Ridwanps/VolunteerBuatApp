@@ -7,3 +7,5 @@ Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada
 Berikut daftar Volunter yang diterima:
 
 * Topan Oono Arfiandwi, [topan](https://oon.or.id).
+* Farhan muzakki, [pakhan](https://phn.or.id).
+* Ridwan AI, [iwan](https://iwangAI.or.id).
